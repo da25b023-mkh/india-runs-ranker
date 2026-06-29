@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0088025,1,0.8936,Staff Machine Learning Engineer | 8.6yrs | struct=0.90 sem=0.97 beh=0.76 | strong title match: Staff Machine Learning Engineer; exp 8.6yrs in ideal 5-9 range; active 2mo ago
+CAND_0005311,2,0.8800,AI Research Engineer | 5.7yrs | struct=0.88 sem=0.97 beh=0.74 | strong title match: AI Research Engineer; exp 5.7yrs in ideal 5-9 range; active 2mo ago
+CAND_0071974,3,0.8776,Senior AI Engineer | 7.8yrs | struct=0.92 sem=0.89 beh=0.80 | strong title match: Senior AI Engineer; exp 7.8yrs in ideal 5-9 range; active 2mo ago
+CAND_0010685,4,0.8727,NLP Engineer | 6.7yrs | struct=0.87 sem=0.96 beh=0.74 | strong title match: NLP Engineer; exp 6.7yrs in ideal 5-9 range; active 4mo ago (borderline)
+CAND_0086022,5,0.8672,Senior Applied Scientist | 5.3yrs | struct=0.92 sem=0.86 beh=0.81 | strong title match: Senior Applied Scientist; exp 5.3yrs in ideal 5-9 range; active 2mo ago
+CAND_0037566,6,0.8671,Machine Learning Engineer | 6.9yrs | struct=0.86 sem=0.90 beh=0.81 | strong title match: Machine Learning Engineer; exp 6.9yrs in ideal 5-9 range; active 2mo ago
+CAND_0041669,7,0.8671,Recommendation Systems Engineer | 8.0yrs | struct=0.95 sem=0.83 beh=0.81 | strong title match: Recommendation Systems Engineer; exp 8.0yrs in ideal 5-9 range; active 3mo ago
+CAND_0077337,8,0.8653,Staff Machine Learning Engineer | 7.0yrs | struct=0.88 sem=0.90 beh=0.78 | strong title match: Staff Machine Learning Engineer; exp 7.0yrs in ideal 5-9 range; active 1mo ago
+CAND_0011687,9,0.8569,Senior NLP Engineer | 7.8yrs | struct=0.84 sem=0.85 beh=0.89 | strong title match: Senior NLP Engineer; exp 7.8yrs in ideal 5-9 range; active 2mo ago
+CAND_0098780,10,0.8461,AI Research Engineer | 5.9yrs | struct=0.85 sem=0.95 beh=0.68 | strong title match: AI Research Engineer; exp 5.9yrs in ideal 5-9 range; active 2mo ago
+CAND_0077285,11,0.8450,Recommendation Systems Engineer | 5.5yrs | struct=0.91 sem=0.85 beh=0.74 | strong title match: Recommendation Systems Engineer; exp 5.5yrs in ideal 5-9 range; active 2mo ago
+CAND_0005260,12,0.8438,Senior NLP Engineer | 5.2yrs | struct=0.91 sem=0.95 beh=0.59 | strong title match: Senior NLP Engineer; exp 5.2yrs in ideal 5-9 range; active 2mo ago
+CAND_0068932,13,0.8429,ML Engineer | 5.2yrs | struct=0.78 sem=0.89 beh=0.86 | strong title match: ML Engineer; exp 5.2yrs in ideal 5-9 range; active 1mo ago
+CAND_0053605,14,0.8423,Senior Software Engineer (ML) | 6.9yrs | struct=0.88 sem=0.81 beh=0.83 | strong title match: Senior Software Engineer (ML); exp 6.9yrs in ideal 5-9 range; active 1mo ago
+CAND_0043637,15,0.8413,Junior ML Engineer | 5.5yrs | struct=0.85 sem=0.88 beh=0.77 | strong title match: Junior ML Engineer; exp 5.5yrs in ideal 5-9 range; active 1mo ago
+CAND_0028422,16,0.8392,Junior ML Engineer | 5.5yrs | struct=0.84 sem=0.90 beh=0.75 | strong title match: Junior ML Engineer; exp 5.5yrs in ideal 5-9 range; active 2mo ago
+CAND_0076163,17,0.8391,NLP Engineer | 6.9yrs | struct=0.73 sem=0.96 beh=0.80 | strong title match: NLP Engineer; exp 6.9yrs in ideal 5-9 range; active 2mo ago
+CAND_0000031,18,0.8390,Recommendation Systems Engineer | 6.0yrs | struct=0.93 sem=0.83 beh=0.72 | strong title match: Recommendation Systems Engineer; exp 6.0yrs in ideal 5-9 range; active 1mo ago
+CAND_0027691,19,0.8347,NLP Engineer | 6.5yrs | struct=0.94 sem=0.77 beh=0.79 | strong title match: NLP Engineer; exp 6.5yrs in ideal 5-9 range; active 3mo ago
+CAND_0095528,20,0.8344,Senior Data Scientist | 5.3yrs | struct=0.87 sem=0.89 beh=0.68 | strong title match: Senior Data Scientist; exp 5.3yrs in ideal 5-9 range; active 2mo ago
+CAND_0099806,21,0.8336,AI Engineer | 4.6yrs | struct=0.73 sem=0.90 beh=0.87 | strong title match: AI Engineer; exp 4.6yrs slightly below range; active 2mo ago
+CAND_0093912,22,0.8332,Senior Data Scientist | 5.3yrs | struct=0.83 sem=0.82 beh=0.86 | strong title match: Senior Data Scientist; exp 5.3yrs in ideal 5-9 range; active 2mo ago
+CAND_0008425,23,0.8323,Senior NLP Engineer | 7.8yrs | struct=0.90 sem=0.87 beh=0.67 | strong title match: Senior NLP Engineer; exp 7.8yrs in ideal 5-9 range; active 2mo ago
+CAND_0017960,24,0.8317,Recommendation Systems Engineer | 7.7yrs | struct=0.88 sem=0.83 beh=0.77 | strong title match: Recommendation Systems Engineer; exp 7.7yrs in ideal 5-9 range; active 2mo ago
+CAND_0036184,25,0.8314,Recommendation Systems Engineer | 6.0yrs | struct=0.79 sem=0.86 beh=0.83 | strong title match: Recommendation Systems Engineer; exp 6.0yrs in ideal 5-9 range; active 1mo ago
+CAND_0018094,26,0.8309,ML Engineer | 5.2yrs | struct=0.83 sem=0.92 beh=0.69 | strong title match: ML Engineer; exp 5.2yrs in ideal 5-9 range; active 3mo ago
+CAND_0075249,27,0.8300,Applied ML Engineer | 6.2yrs | struct=0.88 sem=0.86 beh=0.71 | strong title match: Applied ML Engineer; exp 6.2yrs in ideal 5-9 range; active 3mo ago
+CAND_0052706,28,0.8299,AI Research Engineer | 5.1yrs | struct=0.86 sem=0.87 beh=0.73 | strong title match: AI Research Engineer; exp 5.1yrs in ideal 5-9 range; active 2mo ago
+CAND_0073314,29,0.8297,Senior Software Engineer (ML) | 5.2yrs | struct=0.76 sem=0.95 beh=0.74 | strong title match: Senior Software Engineer (ML); exp 5.2yrs in ideal 5-9 range; active 1mo ago
+CAND_0008295,30,0.8281,AI Research Engineer | 6.5yrs | struct=0.86 sem=0.82 beh=0.79 | strong title match: AI Research Engineer; exp 6.5yrs in ideal 5-9 range; active 1mo ago
+CAND_0066999,31,0.8281,Recommendation Systems Engineer | 5.9yrs | struct=0.88 sem=0.79 beh=0.82 | strong title match: Recommendation Systems Engineer; exp 5.9yrs in ideal 5-9 range; active 3mo ago
+CAND_0049538,32,0.8258,Applied ML Engineer | 5.8yrs | struct=0.92 sem=0.83 beh=0.69 | strong title match: Applied ML Engineer; exp 5.8yrs in ideal 5-9 range; active 1mo ago
+CAND_0048558,33,0.8255,Data Scientist | 6.7yrs | struct=0.77 sem=0.91 beh=0.77 | strong title match: Data Scientist; exp 6.7yrs in ideal 5-9 range; active 1mo ago
+CAND_0047542,34,0.8247,Senior Software Engineer (ML) | 5.0yrs | struct=0.94 sem=0.81 beh=0.69 | strong title match: Senior Software Engineer (ML); exp 5.0yrs in ideal 5-9 range; active 3mo ago
+CAND_0006418,35,0.8246,Machine Learning Engineer | 5.7yrs | struct=0.94 sem=0.75 beh=0.79 | strong title match: Machine Learning Engineer; exp 5.7yrs in ideal 5-9 range; active 3mo ago
+CAND_0024990,36,0.8245,Junior ML Engineer | 5.2yrs | struct=0.79 sem=0.88 beh=0.79 | strong title match: Junior ML Engineer; exp 5.2yrs in ideal 5-9 range; active 1mo ago
+CAND_0010603,37,0.8243,ML Engineer | 5.3yrs | struct=0.83 sem=0.86 beh=0.75 | strong title match: ML Engineer; exp 5.3yrs in ideal 5-9 range; active 1mo ago
+CAND_0015528,38,0.8241,Applied ML Engineer | 7.4yrs | struct=0.87 sem=0.91 beh=0.62 | strong title match: Applied ML Engineer; exp 7.4yrs in ideal 5-9 range; active 2mo ago
+CAND_0092255,39,0.8239,ML Engineer | 5.2yrs | struct=0.90 sem=0.83 beh=0.71 | strong title match: ML Engineer; exp 5.2yrs in ideal 5-9 range; active 2mo ago
+CAND_0074735,40,0.8227,Applied ML Engineer | 5.5yrs | struct=0.85 sem=0.90 beh=0.65 | strong title match: Applied ML Engineer; exp 5.5yrs in ideal 5-9 range; active 3mo ago (borderline)
+CAND_0033445,41,0.8220,ML Engineer | 6.8yrs | struct=0.85 sem=0.81 beh=0.80 | strong title match: ML Engineer; exp 6.8yrs in ideal 5-9 range; active 1mo ago
+CAND_0037980,42,0.8216,Senior Applied Scientist | 9.0yrs | struct=0.89 sem=0.85 beh=0.69 | strong title match: Senior Applied Scientist; exp 9.0yrs in ideal 5-9 range; active 3mo ago (borderline)
+CAND_0068351,43,0.8212,Lead AI Engineer | 6.4yrs | struct=0.74 sem=0.98 beh=0.68 | strong title match: Lead AI Engineer; exp 6.4yrs in ideal 5-9 range; active 3mo ago
+CAND_0050876,44,0.8202,Applied ML Engineer | 6.0yrs | struct=0.84 sem=0.86 beh=0.73 | strong title match: Applied ML Engineer; exp 6.0yrs in ideal 5-9 range; active 1mo ago
+CAND_0007009,45,0.8196,Recommendation Systems Engineer | 7.9yrs | struct=0.89 sem=0.82 beh=0.72 | strong title match: Recommendation Systems Engineer; exp 7.9yrs in ideal 5-9 range; active 3mo ago (borderline)
+CAND_0069718,46,0.8188,ML Engineer | 5.7yrs | struct=0.75 sem=0.99 beh=0.65 | strong title match: ML Engineer; exp 5.7yrs in ideal 5-9 range; active 3mo ago
+CAND_0062413,47,0.8179,AI Research Engineer | 6.6yrs | struct=0.86 sem=0.85 beh=0.70 | strong title match: AI Research Engineer; exp 6.6yrs in ideal 5-9 range; active 3mo ago
+CAND_0046525,48,0.8177,Senior Machine Learning Engineer | 6.1yrs | struct=0.83 sem=0.86 beh=0.74 | strong title match: Senior Machine Learning Engineer; exp 6.1yrs in ideal 5-9 range; active 1mo ago
+CAND_0053695,49,0.8174,Recommendation Systems Engineer | 5.8yrs | struct=0.84 sem=0.83 beh=0.77 | strong title match: Recommendation Systems Engineer; exp 5.8yrs in ideal 5-9 range; active 3mo ago
+CAND_0005649,50,0.8171,Senior Data Scientist | 7.4yrs | struct=0.88 sem=0.83 beh=0.70 | strong title match: Senior Data Scientist; exp 7.4yrs in ideal 5-9 range; active 3mo ago
+CAND_0033179,51,0.8156,AI Research Engineer | 6.9yrs | struct=0.86 sem=0.79 beh=0.79 | strong title match: AI Research Engineer; exp 6.9yrs in ideal 5-9 range; active 1mo ago
+CAND_0018499,52,0.8148,Senior Machine Learning Engineer | 7.2yrs | struct=0.90 sem=0.73 beh=0.83 | strong title match: Senior Machine Learning Engineer; exp 7.2yrs in ideal 5-9 range; active 2mo ago
+CAND_0002344,53,0.8126,Senior Software Engineer (ML) | 4.7yrs | struct=0.75 sem=0.91 beh=0.75 | strong title match: Senior Software Engineer (ML); exp 4.7yrs slightly below range; active 3mo ago
+CAND_0095619,54,0.8111,NLP Engineer | 15.6yrs | struct=0.70 sem=0.90 beh=0.82 | strong title match: NLP Engineer; exp 15.6yrs outside acceptable range; active 2mo ago
+CAND_0032216,55,0.8108,ML Engineer | 6.1yrs | struct=0.86 sem=0.85 beh=0.67 | strong title match: ML Engineer; exp 6.1yrs in ideal 5-9 range; active 2mo ago
+CAND_0052431,56,0.8106,ML Engineer | 5.3yrs | struct=0.84 sem=0.88 beh=0.67 | strong title match: ML Engineer; exp 5.3yrs in ideal 5-9 range; active 1mo ago
+CAND_0013665,57,0.8103,Senior Software Engineer (ML) | 5.2yrs | struct=0.88 sem=0.88 beh=0.60 | strong title match: Senior Software Engineer (ML); exp 5.2yrs in ideal 5-9 range; active 1mo ago
+CAND_0010541,58,0.8097,AI Research Engineer | 6.2yrs | struct=0.86 sem=0.89 beh=0.61 | strong title match: AI Research Engineer; exp 6.2yrs in ideal 5-9 range; active 4mo ago (borderline)
+CAND_0082086,59,0.8093,Senior Software Engineer (ML) | 6.0yrs | struct=0.73 sem=0.88 beh=0.80 | strong title match: Senior Software Engineer (ML); exp 6.0yrs in ideal 5-9 range; active 2mo ago
+CAND_0046353,60,0.8092,ML Engineer | 6.4yrs | struct=0.82 sem=0.85 beh=0.73 | strong title match: ML Engineer; exp 6.4yrs in ideal 5-9 range; active 2mo ago
+CAND_0043860,61,0.8086,Junior ML Engineer | 6.1yrs | struct=0.84 sem=0.78 beh=0.82 | strong title match: Junior ML Engineer; exp 6.1yrs in ideal 5-9 range; active 1mo ago
+CAND_0075439,62,0.8075,Machine Learning Engineer | 4.3yrs | struct=0.80 sem=0.92 beh=0.64 | strong title match: Machine Learning Engineer; exp 4.3yrs slightly below range; active 2mo ago
+CAND_0020350,63,0.8061,AI Engineer | 5.8yrs | struct=0.83 sem=0.81 beh=0.76 | strong title match: AI Engineer; exp 5.8yrs in ideal 5-9 range; active 3mo ago
+CAND_0000273,64,0.8038,ML Engineer | 5.8yrs | struct=0.85 sem=0.86 beh=0.65 | strong title match: ML Engineer; exp 5.8yrs in ideal 5-9 range; active 2mo ago
+CAND_0077498,65,0.8038,Senior Software Engineer (ML) | 5.4yrs | struct=0.84 sem=0.79 beh=0.77 | strong title match: Senior Software Engineer (ML); exp 5.4yrs in ideal 5-9 range; active 1mo ago
+CAND_0064888,66,0.8031,ML Engineer | 5.8yrs | struct=0.83 sem=0.79 beh=0.79 | strong title match: ML Engineer; exp 5.8yrs in ideal 5-9 range; active 1mo ago
+CAND_0014234,67,0.8019,Junior ML Engineer | 5.4yrs | struct=0.83 sem=0.87 beh=0.64 | strong title match: Junior ML Engineer; exp 5.4yrs in ideal 5-9 range; active 4mo ago (borderline)
+CAND_0051003,68,0.8010,Senior Software Engineer (ML) | 4.0yrs | struct=0.75 sem=0.90 beh=0.72 | strong title match: Senior Software Engineer (ML); exp 4.0yrs slightly below range; active 3mo ago
+CAND_0065195,69,0.8000,Search Engineer | 5.1yrs | struct=0.85 sem=0.74 beh=0.81 | strong title match: Search Engineer; exp 5.1yrs in ideal 5-9 range; active 1mo ago
+CAND_0047721,70,0.7999,Senior Data Scientist | 7.0yrs | struct=0.88 sem=0.90 beh=0.52 | strong title match: Senior Data Scientist; exp 7.0yrs in ideal 5-9 range; active 3mo ago
+CAND_0094056,71,0.7993,NLP Engineer | 5.9yrs | struct=0.89 sem=0.86 beh=0.56 | strong title match: NLP Engineer; exp 5.9yrs in ideal 5-9 range; active 2mo ago
+CAND_0009691,72,0.7986,Applied ML Engineer | 6.2yrs | struct=0.79 sem=0.90 beh=0.65 | strong title match: Applied ML Engineer; exp 6.2yrs in ideal 5-9 range; active 1mo ago
+CAND_0081846,73,0.7986,Lead AI Engineer | 6.7yrs | struct=0.88 sem=0.73 beh=0.79 | strong title match: Lead AI Engineer; exp 6.7yrs in ideal 5-9 range; active 2mo ago
+CAND_0070525,74,0.7984,Senior Software Engineer (ML) | 5.4yrs | struct=0.70 sem=0.91 beh=0.76 | strong title match: Senior Software Engineer (ML); exp 5.4yrs in ideal 5-9 range; active 1mo ago
+CAND_0064256,75,0.7983,Junior ML Engineer | 6.4yrs | struct=0.78 sem=0.81 beh=0.80 | strong title match: Junior ML Engineer; exp 6.4yrs in ideal 5-9 range; active 1mo ago
+CAND_0087630,76,0.7982,AI Engineer | 7.2yrs | struct=0.91 sem=0.88 beh=0.51 | strong title match: AI Engineer; exp 7.2yrs in ideal 5-9 range; active 4mo ago (borderline)
+CAND_0028793,77,0.7977,Search Engineer | 7.2yrs | struct=0.89 sem=0.79 beh=0.68 | strong title match: Search Engineer; exp 7.2yrs in ideal 5-9 range; active 3mo ago
+CAND_0049540,78,0.7977,ML Engineer | 6.8yrs | struct=0.74 sem=0.87 beh=0.75 | strong title match: ML Engineer; exp 6.8yrs in ideal 5-9 range; active 1mo ago
+CAND_0053591,79,0.7977,AI Engineer | 5.3yrs | struct=0.73 sem=0.84 beh=0.82 | strong title match: AI Engineer; exp 5.3yrs in ideal 5-9 range; active 1mo ago
+CAND_0079387,80,0.7977,AI Engineer | 6.9yrs | struct=0.86 sem=0.72 beh=0.84 | strong title match: AI Engineer; exp 6.9yrs in ideal 5-9 range; active 2mo ago
+CAND_0072660,81,0.7974,Machine Learning Engineer | 7.1yrs | struct=0.67 sem=0.93 beh=0.75 | strong title match: Machine Learning Engineer; exp 7.1yrs in ideal 5-9 range; active 1mo ago
+CAND_0054394,82,0.7969,Recommendation Systems Engineer | 4.1yrs | struct=0.73 sem=0.86 beh=0.78 | strong title match: Recommendation Systems Engineer; exp 4.1yrs slightly below range; active 2mo ago
+CAND_0083852,83,0.7967,Data Scientist | 6.0yrs | struct=0.83 sem=0.80 beh=0.74 | strong title match: Data Scientist; exp 6.0yrs in ideal 5-9 range; active 1mo ago
+CAND_0044222,84,0.7964,AI Engineer | 7.7yrs | struct=0.78 sem=0.88 beh=0.69 | strong title match: AI Engineer; exp 7.7yrs in ideal 5-9 range; active 2mo ago
+CAND_0025882,85,0.7961,Senior Software Engineer (ML) | 5.6yrs | struct=0.80 sem=0.85 beh=0.71 | strong title match: Senior Software Engineer (ML); exp 5.6yrs in ideal 5-9 range; active 2mo ago
+CAND_0001086,86,0.7959,Senior Software Engineer | 8.0yrs | struct=0.79 sem=0.89 beh=0.65 | strong title match: Senior Software Engineer; exp 8.0yrs in ideal 5-9 range; active 5mo ago (borderline)
+CAND_0045250,87,0.7955,Applied ML Engineer | 6.6yrs | struct=0.94 sem=0.78 beh=0.62 | strong title match: Applied ML Engineer; exp 6.6yrs in ideal 5-9 range; active 2mo ago
+CAND_0011327,88,0.7951,AI Research Engineer | 6.3yrs | struct=0.84 sem=0.80 beh=0.73 | strong title match: AI Research Engineer; exp 6.3yrs in ideal 5-9 range; active 1mo ago
+CAND_0083879,89,0.7950,Machine Learning Engineer | 7.1yrs | struct=0.80 sem=0.83 beh=0.74 | strong title match: Machine Learning Engineer; exp 7.1yrs in ideal 5-9 range; active 2mo ago
+CAND_0001930,90,0.7949,Senior Software Engineer (ML) | 6.9yrs | struct=0.85 sem=0.84 beh=0.65 | strong title match: Senior Software Engineer (ML); exp 6.9yrs in ideal 5-9 range; active 4mo ago (borderline)
+CAND_0070225,91,0.7944,ML Engineer | 6.0yrs | struct=0.88 sem=0.83 beh=0.62 | strong title match: ML Engineer; exp 6.0yrs in ideal 5-9 range; active 2mo ago
+CAND_0041610,92,0.7938,Recommendation Systems Engineer | 6.7yrs | struct=0.82 sem=0.78 beh=0.77 | strong title match: Recommendation Systems Engineer; exp 6.7yrs in ideal 5-9 range; active 2mo ago
+CAND_0029671,93,0.7935,Data Scientist | 5.7yrs | struct=0.82 sem=0.88 beh=0.61 | strong title match: Data Scientist; exp 5.7yrs in ideal 5-9 range; active 1mo ago
+CAND_0042029,94,0.7926,Senior Data Scientist | 6.5yrs | struct=0.87 sem=0.83 beh=0.62 | strong title match: Senior Data Scientist; exp 6.5yrs in ideal 5-9 range; active 3mo ago
+CAND_0050454,95,0.7920,AI Engineer | 6.8yrs | struct=0.79 sem=0.80 beh=0.79 | strong title match: AI Engineer; exp 6.8yrs in ideal 5-9 range; active 2mo ago
+CAND_0010257,96,0.7911,Senior Data Scientist | 6.5yrs | struct=0.84 sem=0.81 beh=0.70 | strong title match: Senior Data Scientist; exp 6.5yrs in ideal 5-9 range; active 2mo ago
+CAND_0064116,97,0.7908,Senior Software Engineer | 6.1yrs | struct=0.71 sem=0.89 beh=0.75 | strong title match: Senior Software Engineer; exp 6.1yrs in ideal 5-9 range; active 2mo ago
+CAND_0094759,98,0.7908,Lead AI Engineer | 8.6yrs | struct=0.93 sem=0.84 beh=0.52 | strong title match: Lead AI Engineer; exp 8.6yrs in ideal 5-9 range; active 6mo ago (borderline)
+CAND_0064326,99,0.7907,Search Engineer | 7.6yrs | struct=0.89 sem=0.70 beh=0.80 | strong title match: Search Engineer; exp 7.6yrs in ideal 5-9 range; active 1mo ago
+CAND_0096142,100,0.7906,Applied ML Engineer | 5.0yrs | struct=0.91 sem=0.73 beh=0.72 | strong title match: Applied ML Engineer; exp 5.0yrs in ideal 5-9 range; active 1mo ago
